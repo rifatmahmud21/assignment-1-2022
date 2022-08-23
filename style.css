@@ -14,9 +14,11 @@ h2 {
     font-size: 50px;
     font-weight: 700;
     text-align: center;
+    margin-top: 110px;
     margin-bottom: 5px;
     color: rgb(0, 0, 0);
 }
+
 
 .main-banner {
     padding: 200px;
@@ -78,4 +80,38 @@ section p {
 
 .pay-donation {
     text-align: center;
+}
+
+.Donate-Plan-sub-title {
+    text-align: center;
+    color: rgb(158, 158, 158);
+}
+
+.planing {
+    display: flex;
+}
+
+.planing p {
+    color: black;
+}
+
+.planing div {
+    padding: 30px;
+    margin: 40px;
+    background-color: beige;
+    border-radius: 15px;
+}
+
+#food-section {
+    background-color: rgb(215, 255, 230);
+    margin-left: 350px;
+}
+
+#shelter-section {
+    background-color: rgb(255, 248, 225);
+}
+
+#education-section {
+    background-color: rgb(219, 239, 255);
+    margin-right: 350px;
 }
