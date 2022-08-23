@@ -141,3 +141,63 @@ section p {
 .half-width img {
     border-radius: 10px;
 }
+
+
+
+
+
+
+
+
+
+.section-6 p {
+    color: rgb(179, 179, 179);
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+
+.contact input {
+    background-color: rgb(236, 236, 236);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 0px;
+}
+
+.contact button {
+    color: aliceblue;
+    font-weight: 700;
+    background-color: tomato;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 0px;
+}
+
+.contact {
+    background-color: rgb(255, 176, 165);
+    padding: 80px;
+    margin: 0 500px 0 500px;
+}
+
+footer {
+    background-color: black;
+    padding: 70px;
+    margin-top: 30px;
+}
+
+footer h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+footer small {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
