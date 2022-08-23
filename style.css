@@ -142,9 +142,37 @@ section p {
     border-radius: 10px;
 }
 
+.works {
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+}
 
+.works img {
+    height: 380px;
+    margin: 10px;
+}
 
+.work-card {
+    text-align: center;
+    background-color: rgb(255, 225, 218);
+    padding: 20px;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
 
+.work-card h3 {
+    color: rgb(61, 61, 61);
+}
+
+.work-with-us h3 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.bold {
+    color: tomato;
+}
 
 
 
