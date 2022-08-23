@@ -12,13 +12,12 @@ h1 {
 
 h2 {
     font-size: 50px;
-    font-weight: 700;
     text-align: center;
+    font-weight: 700;
     margin-top: 110px;
     margin-bottom: 5px;
     color: rgb(0, 0, 0);
 }
-
 
 .main-banner {
     padding: 200px;
@@ -40,7 +39,6 @@ section p {
 .button {
     font-weight: 600;
     padding: 15px 40px;
-
     text-decoration: none;
     color: rgb(255, 255, 255);
     background-color: tomato;
@@ -82,6 +80,10 @@ section p {
     text-align: center;
 }
 
+#Donate-Plan h2 {
+    text-align: center;
+}
+
 .Donate-Plan-sub-title {
     text-align: center;
     color: rgb(158, 158, 158);
@@ -114,4 +116,28 @@ section p {
 #education-section {
     background-color: rgb(219, 239, 255);
     margin-right: 350px;
+}
+
+.section-4 {
+    margin-top: 90px;
+}
+
+.about-donation {
+    display: flex;
+    margin: 0px 350px 0 350px;
+
+}
+
+.about-donation p {
+    color: rgb(170, 170, 170);
+    text-align: justify;
+}
+
+.half-width {
+    width: 50%;
+    margin: 30px;
+}
+
+.half-width img {
+    border-radius: 10px;
 }
